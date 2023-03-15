@@ -1,5 +1,7 @@
 👋 Hi, I’m Daniel ... www.danielfanica.com
 
-An all-round web aficionado with over 13 years of coding experience looking to work on exciting projects with exciting clients. Full of energy, experience, hard work and enthusiasm, always up for a new challenge and with a desire to work at the heart of any modern industry.
+Imagine that you're a seasoned and passionate explorer of the vast and ever-changing world of the internet. You've spent over 15 years navigating its complex web of coding languages, tools, and technologies, honing your skills and expanding your knowledge with every step.
 
-I see technology as a way of facilitating and improving communication between people and I believe that people come before technology.
+As you embark on your next journey, you're eager to team up with fellow adventurers who share your thirst for discovery and your willingness to take on any challenge that comes your way. You're a powerhouse of energy, with a wealth of experience under your belt, and an unyielding enthusiasm for tackling the latest and greatest projects.
+
+Whether it's developing cutting-edge websites, building innovative web applications, or working on any other exciting digital venture, you're always ready to dive in headfirst and make a meaningful impact at the forefront of any modern industry.
